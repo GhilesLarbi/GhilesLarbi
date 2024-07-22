@@ -5,8 +5,8 @@
 ```
  
 
-<div style="display:flex;gap: 10px;justify-content:center;align-items:center">
-<img src="https://user-images.githubusercontent.com/56447720/215329483-0f7dcda1-71a7-495a-9097-2393af297636.png" style="width:156px;">
+<div style="display:block;align-items:center">
+<img src="https://user-images.githubusercontent.com/56447720/215329483-0f7dcda1-71a7-495a-9097-2393af297636.png" align="left" border="0" style="width:156px;">
   
   ```css
   GhilesLarbi@GitHub
