@@ -1,16 +1,23 @@
-## Hi there 👋
 
-<!--
-**GhilesLarbi/GhilesLarbi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```css
+┌[ghiles@Unknown]-(~)
+└> neofetch
+```
+ 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="display:flex;gap: 10px;justify-content:center;align-items:center">
+<img src="https://user-images.githubusercontent.com/56447720/215329483-0f7dcda1-71a7-495a-9097-2393af297636.png" style="width:156px;">
+  
+  ```css
+  GhilesLarbi@GitHub
+  ------------------
+  OS: Arch Linux x86_64
+  Host: Ghiles Larbi
+  Uptime: 23 Years
+  Packages: 10 (pacman)
+  Shell: Bash 5.2.26
+  Languages: ["Python", "Javascript", "C", "Lua", "Bash"]
+  Intrests: ["Machine Learning", "Deep Learning", "Web"]  
+  ```
+</div>
+<br />
